@@ -21,7 +21,7 @@
       <!-- linha -->
       <div class="border-t border-[#F4F6F9] flex justify-center py-[2.6rem] text-[0.7rem] font-font2 ">
         <span>
-          © Copyright 2023. Made by Gabriella Muniz
+          © Copyright 2024. Made by Gabriella Muniz
          
         </span>
       </div>

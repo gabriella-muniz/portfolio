@@ -13,10 +13,10 @@
     <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[50px] justify-items-center mt-[100px]">
       <!-- Projeto 1 -->
       <li class="flex flex-col justify-between items-center w-full max-w-[350px] rounded-lg overflow-hidden shadow-lg transition-transform duration-300 transform hover:scale-105">
-        <div class="w-full h-[200px] overflow-hidden">
+        <div class=" h-[200px] overflow-hidden">
           <img
             class="w-full h-full object-cover"
-            src="../assets/sitecatpedia.png"
+            src="../assets/projetos.png"
             alt="Catpédia Project"
           />
         </div>
@@ -40,10 +40,10 @@
 
       <!-- Projeto 2 -->
       <li class="flex flex-col justify-between items-center w-full max-w-[350px] rounded-lg overflow-hidden shadow-lg transition-transform duration-300 transform hover:scale-105">
-        <div class="w-full h-[200px] overflow-hidden">
+        <div class=" h-[200px] overflow-hidden">
           <img
             class="w-full h-full object-cover"
-            src="../assets/calculadora.png"
+            src="../assets/projetos.png"
             alt="Projeto Calculadora"
           />
         </div>
@@ -67,10 +67,10 @@
 
       <!-- Projeto 3 -->
       <li class="flex flex-col justify-between items-center w-full max-w-[350px] rounded-lg overflow-hidden shadow-lg transition-transform duration-300 transform hover:scale-105">
-        <div class="w-full h-[200px] overflow-hidden">
+        <div class=" h-[200px] overflow-hidden">
           <img
             class="w-full h-full object-cover"
-            src="../assets/movie-on.png"
+            src="../assets/projetos.png"
             alt="Catálogo de Filmes"
           />
         </div>

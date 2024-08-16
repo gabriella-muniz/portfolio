@@ -6,7 +6,7 @@
         OLÁ, MEU NOME É GABRIELLA MUNIZ
       </h1>
       <p class="text-[#3A3A3D] text-[1.4rem] leading-relaxed my-[30px] font-font2 font-medium">
-        Sou apaixonada pelo mundo da programação e design de interfaces digitais. Atualmente, estou em uma jornada de formação para me tornar uma Desenvolvedora Front-End.
+        Sou apaixonada pelo mundo da programação e design de interfaces digitais. Desenvolvedora Front End formada.
       </p>
       <div>
         <a class="bg-[#3A3A3D] text-[#F4F6F9] py-[1.2rem] px-[3.5rem] text-[1rem] uppercase tracking-wider font-bold rounded-lg shadow-md transition-transform transform hover:translate-y-[-5px] font-font" href="#project">

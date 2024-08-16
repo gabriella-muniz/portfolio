@@ -1,53 +1,58 @@
 <template>
- <section  id="about" class=" py-[10%] px-[5%] bg-[#CCD6F5]">
-        <div class="section-about"> 
-            <h2 class="text-[2.6rem] uppercase tracking-[3px] font-bold text-center relative mb-[50px] text-[#3A3A3D] font-font">SOBRE MIM</h2>
-            <p class="text-center block text-[rgb(34,34,34)] text-[1.4rem] font-medium mx-[10rem] leading-[1.6] font-font2">Agora você terá a oportunidade de descobrir um pouco mais a meu respeito.</p>
+  <section id="about" class="py-[10%] px-[5%] bg-[#CCD6F5]">
+    <div class="section-about">
+      <h2 class="text-[2rem] sm:text-[2.6rem] uppercase tracking-[3px] font-bold text-center relative mb-[30px] sm:mb-[50px] text-[#3A3A3D] font-font">
+        SOBRE MIM
+      </h2>
+      <p class="text-center block text-[rgb(34,34,34)] text-[1.2rem] sm:text-[1.4rem] font-medium mx-[2rem] sm:mx-[6rem] md:mx-[10rem] leading-[1.6] font-font2">
+        Agora você terá a oportunidade de descobrir um pouco mais a meu respeito.
+      </p>
 
+      <div class="px-[2%] sm:px-[5%] grid grid-cols-1 md:grid-cols-2 gap-[20px] sm:gap-[60px] text-left pt-[30px] sm:pt-[52px] pl-[10px]">
+        <div>
+          <h3 class="font-bold text-[1.5rem] sm:text-[1.8rem] text-[#3A3A3D] mb-[20px] sm:mb-[30px] font-font">
+            Get to know me!
+          </h3>
+          <p class="text-[1.1rem] sm:text-[1.2rem] text-[rgb(34,34,34)] leading-[1.7] font-font2 mb-[10px]">
+            Olá, sou a <strong class="text-[#3A3A3D]">Gabriella Muniz</strong>, tenho 24 anos e moro em Recife-PE. Sou Formanda em Análise e Desenvolvimento de Sistemas e <strong class="text-[#3A3A3D]">Desenvolvedora Front End formada pela Softex Pernambuco</strong>, além de ser formada em Soluções de <strong class="text-[#3A3A3D]">TechDesing pela CESAR School</strong>.
+          </p>
 
-              <div class="px-[5%]  grid grid-cols-2 gap-[60px] text-left pt-[52px] pl-[10px]">
-                <div>
-                  <h3 class="font-bold text-[1.8rem] text-[#3A3A3D] mb-[30px] font-font">Get to know me!</h3>
-                  <p class="text-[1.2rem] text-[rgb(34,34,34)] leading-[1.7] font-font2" style="margin-bottom: 10px">Olá, sou a <strong class="text-[#3A3A3D]">Gabriella Muniz</strong>, tenho 24 anos e moro em Recife-PE. Sou Formanda em Análise e Desenvolvimento de Sistemas e <strong class="text-[#3A3A3D]">Desenvolvedora Front End formada pela Softex Pernambuco</strong>, além de ser formada em Soluções de <strong class="text-[#3A3A3D]">TechDesing pela CESAR School</strong>.</p> 
+          <p class="text-[1.1rem] sm:text-[1.2rem] text-[rgb(34,34,34)] leading-[1.7] font-font2">
+            Meu objetivo é contribuir para a criação de interfaces digitais que não apenas sejam visualmente atraentes, mas também altamente funcionais e acessíveis a todos os usuários. Quero criar <strong class="text-[#3A3A3D]">soluções que tornem a experiência online mais agradável e eficiente.</strong>
+          </p>
+          <a class="bg-[#3A3A3D] text-[#F4F6F9] py-[1rem] sm:py-[1.2rem] px-[2.5rem] sm:px-[3.5rem] text-[0.9rem] sm:text-[1rem] uppercase tracking-wider font-bold rounded-lg shadow-md transition-transform transform hover:translate-y-[-5px] inline-block mt-[20px] sm:mt-[30px] font-font" href="#project">
+            PROJETOS
+          </a>
+        </div>
 
-                  <p class="text-[1.2rem] text-[rgb(34,34,34)] leading-[1.7] font-font2">Meu objetivo é contribuir para a criação de interfaces digitais que não apenas sejam visualmente atraentes, mas também altamente funcionais e acessíveis a todos os usuários. Quero criar <strong class="text-[#3A3A3D]">soluções que tornem a experiência online mais agradável e eficiente.</strong></p>
-                  <a class="bg-[#3A3A3D] text-[#F4F6F9] py-[1.2rem] px-[3.5rem] text-[1rem] uppercase tracking-wider font-bold rounded-lg shadow-md transition-transform transform hover:translate-y-[-5px] inline-block mt-[30px] font-font" href="#project">
-          PROJETOS
-        </a>
-                </div>
+        <div>
+          <h3 class="font-bold text-[1.5rem] sm:text-[1.8rem] text-[#3A3A3D] mb-[20px] sm:mb-[30px] font-font">
+            Minhas Habilidades
+          </h3>
+          <ul class="flex flex-wrap">
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">HTML</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">CSS</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">JavaScript</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">React</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Vue.js</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Git</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Golang</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Tailwind</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
 
-            <div>
-                <h3 style="padding:0px;" class="font-bold text-[1.8rem] text-[#3A3A3D] mb-[30px] font-font" >Minhas Habilidades</h3>
-                <ul class="flex flex-wrap">
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">HTML</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">CSS</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">JavaScript</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">React</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Vue.js</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Git</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Golang</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Tailwind</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Tailwind</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Tailwind</li>
-                  <li class="py-[1rem] px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Tailwind</li>
-                </ul>
-              </div>
-        </div>   
-      </div> 
-</section>
+<script>
+export default {
+  name: "AboutInicial",
+};
+</script>
 
-
-  </template>
-  
-  <script>
-  export default {
-    name: "AboutInicial",
-  };
-  </script>
-  
-  <style scoped>
-  P{
-    font-size: 1.4rem;
-  }
-  </style>
-  
+<style scoped>
+p {
+  font-size: 1.4rem;
+}
+</style>

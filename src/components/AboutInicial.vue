@@ -14,7 +14,7 @@
             Get to know me!
           </h3>
           <p class="text-[1.1rem] sm:text-[1.2rem] text-[rgb(34,34,34)] leading-[1.7] font-font2 mb-[10px]">
-            Olá, sou a <strong class="text-[#3A3A3D]">Gabriella Muniz</strong>, tenho 24 anos e moro em Recife-PE. Sou Formanda em Análise e Desenvolvimento de Sistemas e <strong class="text-[#3A3A3D]">Desenvolvedora Front End formada pela Softex Pernambuco</strong>, além de ser formada em Soluções de <strong class="text-[#3A3A3D]">TechDesing pela CESAR School</strong>.
+            Me chamo <strong class="text-[#3A3A3D]">Gabriella Muniz</strong>, tenho 24 anos e moro em Recife-PE. Sou Formanda em Análise e Desenvolvimento de Sistemas e <strong class="text-[#3A3A3D]">Desenvolvedora Front End formada pela Softex Pernambuco</strong>, além de ser formada em Soluções de <strong class="text-[#3A3A3D]">TechDesing pela CESAR School</strong>.
           </p>
 
           <p class="text-[1.1rem] sm:text-[1.2rem] text-[rgb(34,34,34)] leading-[1.7] font-font2">

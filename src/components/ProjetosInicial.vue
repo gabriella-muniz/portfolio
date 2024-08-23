@@ -4,7 +4,7 @@
       PROJETOS
     </h2>
     <p class="text-center block text-[#222222] text-[1.2rem] sm:text-[1.4rem] font-medium mx-[2rem] sm:mx-[6rem] md:mx-[10rem] leading-[1.6] font-font2">
-      Olá, é um prazer tê-lo aqui. Sinta-se à vontade para explorar os projetos que desenvolvi ao longo da minha jornada para me tornar uma Programadora Front-End.
+      É um prazer tê-lo aqui. Sinta-se à vontade para explorar os projetos que desenvolvi ao longo da minha jornada para me tornar uma Programadora Front-End.
     </p>
 
     <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-[20px] sm:gap-[30px] justify-items-center mt-[50px] sm:mt-[100px]">

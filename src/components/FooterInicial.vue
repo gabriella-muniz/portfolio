@@ -1,5 +1,5 @@
 <template>
-  <footer id="contact" class="bg-[#3A3A3D] text-white px-[8%] py-0 max-w-[100rem] mx-auto w-[100%]">
+  <footer  class="bg-[#3A3A3D] text-white px-[8%] py-0 max-w-[100rem] mx-auto w-[100%]">
     <div class="flex flex-col sm:flex-row justify-between py-[7%]">
       <div class="mb-[3rem] sm:mb-0">
         <h4 class="mb-[1.6rem] font-font text-[1.5rem]">Gabriella Muniz</h4>
@@ -15,10 +15,10 @@
             <i class="bi bi-linkedin text-[1.6rem] hover:text-[#0e76a8]" aria-hidden="true"></i>
           </a>
           <a href="https://github.com/gabriella-muniz" target="_blank">
-            <i class="bi bi-github text-[1.6rem] hover:text-[#333]" aria-hidden="true"></i>
+            <i class="bi bi-github text-[1.6rem] hover:text-[#0e76a8]" aria-hidden="true"></i>
           </a>
           <a href="https://www.instagram.com/gaabimunizz/" target="_blank">
-            <i class="bi bi-instagram text-[1.6rem] hover:text-[#E1306C]" aria-hidden="true"></i>
+            <i class="bi bi-instagram text-[1.6rem] hover:text-[#0e76a8]" aria-hidden="true"></i>
           </a>
         </div>
       </div>

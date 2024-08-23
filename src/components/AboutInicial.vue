@@ -38,6 +38,9 @@
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Git</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Golang</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Tailwind</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">PostgreSQL</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Node.js</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[rgba(153,153,153,0.2)] rounded-[5px] font-semibold text-[#3A3A3D]">Bootstrap</li>
           </ul>
         </div>
       </div>

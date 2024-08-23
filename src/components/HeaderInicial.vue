@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-[#F4F6F9] flex justify-center items-center px-8 py-4 font-font">
+  <header class="bg-[#F4F6F9] flex justify-center items-center px-8 py-4 font-font fixed top-0 left-0 right-0 z-50">
     <!-- Botão hambúrguer ou X para telas pequenas -->
     <button @click="toggleMenu" class="md:hidden block focus:outline-none absolute right-4 top-4">
       <svg v-if="!isOpen" class="h-6 w-6 text-[#3A3A3D]" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor">
@@ -45,3 +45,7 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+/* Adicione qualquer estilo adicional necessário */
+</style>

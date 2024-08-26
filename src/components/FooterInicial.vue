@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[#222831] text-white px-[8%] py-0 max-w-[100rem] mx-auto w-[100%]">
+  <footer class="bg-[#222831] text-white px-[8%] py-0  mx-auto w-[100%]">
     <!-- Ícones Sociais Centralizados -->
     <div class="flex justify-center py-[3rem]">
       <div class="flex space-x-3">

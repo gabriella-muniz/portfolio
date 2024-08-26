@@ -1,7 +1,7 @@
 <template>
   <section id="project" class="py-[10%] px-[5%] bg-[#222831] border-t border-[#00adb5]">
     <h2
-      class="text-[2rem] sm:text-[2.6rem] uppercase tracking-[3px] font-bold text-center relative mb-[30px] sm:mb-[50px] text-[#F4F6F9]"
+      class="text-[2rem] sm:text-[2.6rem] uppercase tracking-[3px] font-bold text-center relative mb-[30px] sm:mb-[50px] text-[#F4F6F9] pt-16 md:pt-2 font-font"
     >
       PROJETOS
     </h2>
@@ -32,12 +32,12 @@
           >
             Catpédia é um aplicativo web simples criado para exibir informações sobre raças de gatos
             diferentes. As informações são obtidas de uma API pública de gatos
-            (https://thecatapi.com/). O objetivo é consumir essa API e exibir os dados em uma página
+            (The Cat API). O objetivo é consumir essa API e exibir os dados em uma página
             da web de forma clara e organizada, incluindo gráficos de análise.
           </p>
         </div>
         <a
-          class="bg-[#00adb5] text-[#F4F6F9] py-2 sm:py-3 px-4 sm:px-6 text-xs sm:text-sm uppercase tracking-wider font-bold rounded-md shadow-lg transition-transform duration-300 hover:translate-y-[-5px] mb-4 sm:mb-6"
+          class="bg-[#00adb5] text-[#F4F6F9] py-2 sm:py-3 px-4 sm:px-6 text-xs sm:text-sm uppercase tracking-wider font-bold rounded-md shadow-lg transition-transform duration-300 hover:translate-y-[-5px] mb-4 sm:mb-6 font-font"
           href="https://gabriella-muniz.github.io/catpedia/"
           target="_blank"
         >
@@ -69,7 +69,7 @@
           </p>
         </div>
         <a
-          class="bg-[#00adb5] text-[#F4F6F9] py-2 sm:py-3 px-4 sm:px-6 text-xs sm:text-sm uppercase tracking-wider font-bold rounded-md shadow-lg transition-transform duration-300 hover:translate-y-[-5px] mb-4 sm:mb-6"
+          class="bg-[#00adb5] text-[#F4F6F9] py-2 sm:py-3 px-4 sm:px-6 text-xs sm:text-sm uppercase tracking-wider font-bold rounded-md shadow-lg transition-transform duration-300 hover:translate-y-[-5px] mb-4 sm:mb-6 font-font"
           href="https://gabriella-muniz.github.io/calculadora/"
           target="_blank"
         >
@@ -102,7 +102,7 @@
           </p>
         </div>
         <a
-          class="bg-[#00adb5] text-[#F4F6F9] py-2 sm:py-3 px-4 sm:px-6 text-xs sm:text-sm uppercase tracking-wider font-bold rounded-md shadow-lg transition-transform duration-300 hover:translate-y-[-5px] mb-4 sm:mb-6"
+          class="bg-[#00adb5] text-[#F4F6F9] py-2 sm:py-3 px-4 sm:px-6 text-xs sm:text-sm uppercase tracking-wider font-bold rounded-md shadow-lg transition-transform duration-300 hover:translate-y-[-5px] mb-4 sm:mb-6 font-font"
           href="https://gabriella-muniz.github.io/movie-on/"
           target="_blank"
         >

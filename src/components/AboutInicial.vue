@@ -1,6 +1,6 @@
 <template>
   <section id="about" class="py-[10%] px-[5%] bg-[#222831] border-t border-[#00adb5]">
-    <div class="section-about">
+    <div class="section-about pt-16 md:pt-2 ">
       <h2 class="text-[2rem] sm:text-[2.6rem] uppercase tracking-[3px] font-bold text-center relative mb-[30px] sm:mb-[50px] text-[#F4F6F9] font-font">
         SOBRE MIM
       </h2>

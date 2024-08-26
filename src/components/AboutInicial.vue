@@ -25,21 +25,21 @@
           </a>
         </div>
 
-        <div>
-          <h3 class="font-bold text-[1.5rem] sm:text-[1.8rem] text-[#F4F6F9] mb-[20px] sm:mb-[30px] font-font">
+        <div class="font-font">
+          <h3 class="font-bold text-[1.5rem] sm:text-[1.8rem] text-[#F4F6F9] mb-[20px] sm:mb-[30px] ">
             Minhas Habilidades
           </h3>
           <ul class="flex flex-wrap">
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">HTML</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">CSS</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">JavaScript</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Git</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">React</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Vue.js</li>
-            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Git</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Golang</li>
+            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Node.js</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Tailwind</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">PostgreSQL</li>
-            <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Node.js</li>
             <li class="py-[0.8rem] sm:py-[1rem] px-[1.5rem] sm:px-[2rem] mb-[1rem] mr-[1rem] bg-[#00adb5] rounded-[5px] font-semibold text-[#F4F6F9]">Bootstrap</li>
           </ul>
         </div>

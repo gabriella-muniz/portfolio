@@ -15,7 +15,7 @@
       </div>
     </div>
     <!-- Imagem à direita -->
-    <div class="h-full flex justify-center items-center mt-8 md:mt-0">
+    <div class="h-full flex justify-center items-center mt-8 md:mt-0 pt-16 md:pt-0">
       <img src="../assets/foto2.png" alt="Gabriella Muniz" class="rounded-lg w-full max-w-[300px] sm:max-w-[400px] md:max-w-[600px]">
     </div>
   </section>

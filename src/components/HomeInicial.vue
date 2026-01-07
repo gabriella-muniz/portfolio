@@ -45,7 +45,7 @@
         src="../assets/fotooficial.jpg" 
         alt="Gabriella Muniz" 
         class="
-rounded-2xl w-full max-w-[300px] sm:max-w-[200px] md:max-w-[400px]"
+      rounded-2xl w-full max-w-[300px] sm:max-w-[200px] md:max-w-[400px]"
       >
     </div>
 

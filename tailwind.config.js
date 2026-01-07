@@ -6,12 +6,18 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        'primary-color': '#003838',
-      },
+     colors: {
+  'primary-color': '#1C1F33',        
+  'accent-color': '#75c9a3',         
+  'background-light': '#F7F9FC',     
+  'text-secondary': '#42393b',       
+  'creative-green': '#A9FBD7',      
+},
+
       fontFamily: {
         'font': ["Tektur", 'sans-serif'],
-        'font2': ["Rajdhani", 'sans-serif']
+        'font2': ["Rajdhani", 'sans-serif'],
+        'font3': ["Poppins", 'sans-serif']
       },
     },
   },

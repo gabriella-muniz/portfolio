@@ -1,10 +1,10 @@
 <template>
-    <section id="contact" class="bg-[#222831] min-h-screen flex items-center justify-center py-12 px-4 font-font border-t border-[#00adb5]">
-      <div class="w-full max-w-4xl bg-[#2c323b] rounded-lg shadow-md py-8 px-6">
-        <h2 class="text-2xl font-bold mb-4 text-[#00adb5]">Entre em Contato</h2>
+    <section id="contact" class="bg-[#1A1E23] min-h-screen flex items-center justify-center py-12 px-4 font-mono border-t border-[#12F7D6]">
+      <div class="w-full max-w-4xl bg-[#292F36] rounded-lg shadow-md py-8 px-6">
+        <h2 class="text-2xl font-bold mb-4 text-[#12F7D6]">Entre em Contato</h2>
         <form @submit.prevent="sendEmail" class="space-y-4">
           <div>
-            <label for="name" class="block text-sm font-medium text-[#00adb5]">Nome:</label>
+            <label for="name" class="block text-sm font-medium text-[#12F7D6]">Nome:</label>
             <input
               type="text"
               id="name"
@@ -14,7 +14,7 @@
             >
           </div>
           <div>
-            <label for="email" class="block text-sm font-medium text-[#00adb5]">Email:</label>
+            <label for="email" class="block text-sm font-medium text-[#12F7D6]">Email:</label>
             <input
               type="email"
               id="email"
@@ -24,7 +24,7 @@
             >
           </div>
           <div>
-            <label for="message" class="block text-sm font-medium text-[#00adb5]">Mensagem:</label>
+            <label for="message" class="block text-sm font-medium text-[#12F7D6]">Mensagem:</label>
             <textarea
               id="message"
               v-model="message"
@@ -35,7 +35,7 @@
           </div>
           <button
             type="submit"
-            class="w-full bg-[#00adb5] text-white py-2 px-4 rounded-md shadow-sm hover:bg-[#5A5A5D] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+            class="w-full bg-[#12F7D6] text-[#1A1E23] py-2 px-4 rounded-md shadow-sm hover:bg-[#98FAEC] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
           >
             Enviar
           </button>
@@ -62,7 +62,7 @@
           from_name: this.name,
           from_email: this.email,
           message: this.message
-        }, 'E2VWYuuKq0TdFkGD1')
+        }, '0XyJAGrr8FiQRA8DX')
         .then(() => {
           // Exibe um alerta se o e-mail for enviado com sucesso
           alert('Email enviado com sucesso!');
